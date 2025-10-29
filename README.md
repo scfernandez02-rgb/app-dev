@@ -5,8 +5,15 @@ My first repository
 
 
 *2. Bon Appétit, Your Majesty*
+
+
 *3. Our Beloved Summer*
+
 ## Favorite Movies
 *1. Just Go With It*
+
+
 *2. Reel Steel*
+
+
 *3. The Notebook*
